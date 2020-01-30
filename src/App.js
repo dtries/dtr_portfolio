@@ -10,7 +10,7 @@ function App() {
 
 <Navbar
   alignLinks="right"
-  brand={<a className="brand-logo" href="#">Logo</a>}
+  brand={<a className="brand-logo" href="/">Logo</a>}
   menuIcon={<Icon>menu</Icon>}
   options={{
     draggable: true,
