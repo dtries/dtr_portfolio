@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Footer } from 'react-materialize';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import '../App.css';
 
 class FooterArea extends Component {
