@@ -5,7 +5,7 @@ import LandingPage from './components/LandingPage';
 import PortfolioPage from './components/PortfolioPage';
 import AboutPage from './components/AboutPage';
 import './App.css';
-import FooterArea from './components/FooterArea';
+// import FooterArea from './components/FooterArea';
 // import logo from './logo.svg';
 
 class App extends Component  {
